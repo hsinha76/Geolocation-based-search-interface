@@ -6,6 +6,8 @@
 
 Just a simple Geolocation based search app
 
+Demo apk - https://github.com/hsinha76/Geolocation-based-search-interface/blob/master/app-debug.apk
+
 • Data is in .csv
 
 • Languages used kotlin, java
