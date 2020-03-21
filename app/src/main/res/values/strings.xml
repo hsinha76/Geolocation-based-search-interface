@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment app</string>
+    <string name="db_name">assignment2.db</string>
+
+
+    <string name="dash">--</string>
+    <string name="search">Search</string>
+
+    <string name="title_activity_maps_detail">Detail</string>
+
+</resources>
